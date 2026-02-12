@@ -45,7 +45,7 @@ Dette innebærer:
 - Plan for gjennomføring av fordypningsoppgaven  
 - Arbeidsbeskrivelse av YFF-prosjektet  
 
-Husk at arbeidet skal tilpasset to uker med ordinære arbeidsager. Disposisjonen leveres innen mandag på Teams til faglærer. 
+Husk at arbeidet skal tilpasset to uker med ordinære arbeidsager. Disposisjonen leveres innen mandag på Teams til faglærer. Du finner en mal i denne mappen (disposisjon.md) som du kan bruke. 
 
 ---
 
