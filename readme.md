@@ -31,7 +31,7 @@ Alle oppgavene skal leveres i mappestrukturen gitt i repositoriet:
 - oppg2_arbeidslivet
 - oppg3_prosjektoppgave 
 
-Du står fritt til å endre dette, men sørg for at dette kommer tydelig frem i dokumentasjonen. 
+
 ---
 
 # Planlegging av uka
